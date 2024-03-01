@@ -25,7 +25,7 @@ SECRET_KEY = 'fv7u++bg(a55)z_tgfmm#pp3=(l%uc3%7&opoev98g$tbpv49h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django-todoapp-basics.onrender.com"]
 
 
 # Application definition
